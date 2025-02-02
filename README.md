@@ -20,7 +20,3 @@ To run the project locally, make sure to have the following Python libraries ins
 - `wordcloud` - For generating word clouds.
 - `vaderSentiment` / `textblob` - For sentiment analysis.
 - `sklearn` - For machine learning tasks like topic modeling.
-
-You can install the required dependencies using pip:
-```bash
-pip install -r requirements.txt
